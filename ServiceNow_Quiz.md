@@ -26,6 +26,7 @@
     * **assessment_admin**
     * **admin**
     * **survey_creator**
+        [!TIP]
         >The survey_creator role is only noted in the "Configure a quiz" guide.
 
 ### About:
