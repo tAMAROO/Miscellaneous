@@ -62,7 +62,7 @@
 
     >Create a copy of a quiz with at least one category to reduce the effort of creating another quiz with similar data.
 
----
+
 
 ## ServiceNow Vancouver:
 
@@ -98,7 +98,7 @@
 
     >Create a copy of a quiz with at least one category to reduce the effort of creating another quiz with similar data.
 
----
+
 
 ## ServiceNow Washington DC:
 
@@ -134,7 +134,7 @@
 
     >Create a copy of a quiz with at least one category to reduce the effort of creating another quiz with similar data.
 
----
+
 
 ## ServiceNow Xanadu:
 
