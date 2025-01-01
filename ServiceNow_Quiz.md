@@ -3,10 +3,12 @@
 ## Table of Contents
 
 * [Prerequisites](#prerequisites)
+* [About](#about)
 * [ServiceNow Utah](#servicenow-utah)
 * [ServiceNow Vancouver](#servicenow-vancouver)
 * [ServiceNow Washington DC](#servicenow-washington-dc)
 * [ServiceNow Xanadu](#servicenow-xanadu)
+
 
 ### Prerequisites:
 
@@ -26,7 +28,9 @@
     * **survey_creator**
         >The survey_creator role is only noted in the "Configure a quiz" guide.
 
+### About:
 
+Each category can be assigned to a different user or the same users. You can also customize each question and make it dependent on the response to another question.
 
 ## ServiceNow Utah:
 
