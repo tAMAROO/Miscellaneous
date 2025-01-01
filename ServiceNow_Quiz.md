@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Prerequisites](#prerequisites)
-* [ServiceNow Utah](main#servicenow-utah)
+* [ServiceNow Utah](#servicenow-utah)
 * [ServiceNow Vancouver](#servicenow-vancouver)
 * [ServiceNow Washington DC](#servicenow-washington-dc)
 * [ServiceNow Xanadu](#servicenow-xanadu)
