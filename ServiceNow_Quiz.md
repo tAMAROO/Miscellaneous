@@ -1,6 +1,6 @@
 # Creating a Quiz in ServiceNow
 
-## Table of Contents
+### Table of Contents
 
 * [Prerequisites](#prerequisites)
 * [About](#about)
@@ -12,7 +12,7 @@
 
 ### Prerequisites:
 
-1. **ServiceNow Version:**
+* **ServiceNow Version:**
 
     | Release Name | Release Date | EOL? |
     | :----------- | :-----------:| ---- |
@@ -21,20 +21,24 @@
     | Washington DC | Q2-2024     | Yes : 2024-03-20 |
     | Xanadu       | Q4-2024      | No |
 
-2. **Account Role Needed:**
+* **Account Role Needed:**
 
     * **assessment_admin**
     * **admin**
     * **survey_creator**
-        [!TIP]
-        >The survey_creator role is only noted in the "Configure a quiz" guide.
+> [!NOTE]
+> The survey_creator role is only noted in the "Configure a quiz" guide.
 
 ### About:
 
 Each category can be assigned to a different user or the same users. You can also customize each question and make it dependent on the response to another question.
 
-## ServiceNow Utah:
+---
 
+## Quiz Guides By ServiceNow Release:
+
+
+### ServiceNow Utah:
 * [Create quiz categories](https://www.servicenow.com/docs/bundle/utah-servicenow-platform/page/administer/assessments/task/t_CreateAQuizCategory.html)
 
     >A category represents a theme for evaluating a specific element of the quiz topic and contains questions pertaining to that theme.
@@ -68,8 +72,7 @@ Each category can be assigned to a different user or the same users. You can als
     >Create a copy of a quiz with at least one category to reduce the effort of creating another quiz with similar data.
 
 
-
-## ServiceNow Vancouver:
+### ServiceNow Vancouver:
 
 * [Create quiz categories](https://www.servicenow.com/docs/bundle/vancouver-servicenow-platform/page/administer/assessments/task/t_CreateAQuizCategory.html)
 
@@ -104,8 +107,7 @@ Each category can be assigned to a different user or the same users. You can als
     >Create a copy of a quiz with at least one category to reduce the effort of creating another quiz with similar data.
 
 
-
-## ServiceNow Washington DC:
+### ServiceNow Washington DC:
 
 * [Create quiz categories](https://www.servicenow.com/docs/bundle/washingtondc-servicenow-platform/page/administer/assessments/task/t_CreateAQuizCategory.html)
 
@@ -140,8 +142,7 @@ Each category can be assigned to a different user or the same users. You can als
     >Create a copy of a quiz with at least one category to reduce the effort of creating another quiz with similar data.
 
 
-
-## ServiceNow Xanadu:
+### ServiceNow Xanadu:
 
 * [Create quiz categories](https://www.servicenow.com/docs/bundle/xanadu-servicenow-platform/page/administer/assessments/task/t_CreateAQuizCategory.html)
 
