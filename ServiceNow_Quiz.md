@@ -37,6 +37,14 @@
 
 Each category can be assigned to a different user or the same users. You can also customize each question and make it dependent on the response to another question.
 
+[ServiceNow Utah](https://www.servicenow.com/docs/bundle/utah-servicenow-platform/page/administer/assessments/concept/c_Quizzes.html)
+
+[ServiceNow Vancouver](https://www.servicenow.com/docs/bundle/vancouver-servicenow-platform/page/administer/assessments/concept/c_Quizzes.html)
+
+[ServiceNow Washington DC](https://www.servicenow.com/docs/bundle/washingtondc-servicenow-platform/page/administer/assessments/concept/c_Quizzes.html)
+
+[ServiceNow Xanadu](https://www.servicenow.com/docs/bundle/xanadu-servicenow-platform/page/administer/assessments/concept/c_Quizzes.html)
+
 ---
 
 ## Quiz Guides By ServiceNow Release:
