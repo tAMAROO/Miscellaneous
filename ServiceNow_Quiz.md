@@ -29,6 +29,10 @@
 > [!NOTE]
 > The survey_creator role is only noted in the "Configure a quiz" guide.
 
+* **Plugins:**
+  * Test Management 2.0
+  * Service Designer Portal?
+    
 ### About:
 
 Each category can be assigned to a different user or the same users. You can also customize each question and make it dependent on the response to another question.
